@@ -1,0 +1,15 @@
+export const skills = [
+  { name: "React", icon: "react" },
+  { name: "FastAPI", icon: "fastapi" },
+  { name: "Python", icon: "python" },
+  { name: "C/C++", icon: "cpp" },
+  { name: "Node.js", icon: "nodejs" },
+  { name: "Express.js", icon: "express" },
+  { name: "MongoDB", icon: "mongodb" },
+  { name: "Firebase", icon: "firebase" },
+  { name: "PostgreSQL", icon: "postgresql" },
+  { name: "Machine Learning", icon: "ml" },
+  { name: "NLP (spaCy/BERT)", icon: "nlp" },
+  { name: "Cybersecurity", icon: "security" },
+  { name: "Git", icon: "git" },
+]
