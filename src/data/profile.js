@@ -14,6 +14,6 @@ export const profile = {
     phone: "+91 7988641582",
     github: "https://github.com/Rajatb631",
     linkedin: "https://www.linkedin.com/in/rajat-bansal-a43231301/",
-    resume: "https://drive.google.com/file/d/1eXc7gdwzTJ_ZipjbbjwqHULp46tqUEv6/view?usp=drive_link",
+    resume: "https://drive.google.com/file/d/1oYYRyFnG_VYdoMvpmUj0USufe45ahB6P/view?usp=sharing",
   },
 }
